@@ -6,4 +6,5 @@ Creating a new branch is quick and simple.
 Switch to mater branch.
 Add a new branch to fix bug....
 another one comes.
+multi persons are working together.
 
